@@ -1,2 +1,4 @@
-# bash-logger-71
+# Bash Logger 71
+
 Compress logging directories into backups in Bash.
+
